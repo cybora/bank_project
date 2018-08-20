@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Bank_Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 02483682
+Implementation-Vendor-Id: Bank_Project
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Bank_Project
+Created-By: Maven Integration for Eclipse
+
