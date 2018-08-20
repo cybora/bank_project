@@ -5,7 +5,7 @@ To get the backend project, enter the command below on the command line or use t
 	git clone https://github.com/cybora/bank_project
 
 
-To run the project, go to the main folder and type the command below
+To run the project, go to the Bank_Project folder and type the command below
 
 	mvn spring-boot:run
 
